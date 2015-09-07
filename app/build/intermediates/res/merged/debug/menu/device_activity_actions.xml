@@ -20,4 +20,4 @@
         android:icon="@drawable/ic_action_about" 
         android:title="@string/about"/>
 
-</menu><!-- From: file:/home/leocai/workspace/android/sensortag-android-gradle/app/src/main/res/menu/device_activity_actions.xml -->
+</menu><!-- From: file:/E:/android/sensortag-android-handshake/app/src/main/res/menu/device_activity_actions.xml -->

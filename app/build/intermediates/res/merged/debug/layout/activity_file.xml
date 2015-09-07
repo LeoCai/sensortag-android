@@ -28,4 +28,4 @@
         android:onClick="onConfirm"
         android:text="@string/btn_txt_confirm" />
 
-</LinearLayout><!-- From: file:/home/leocai/workspace/android/sensortag-android-gradle/app/src/main/res/layout/activity_file.xml -->
+</LinearLayout><!-- From: file:/E:/android/sensortag-android-handshake/app/src/main/res/layout/activity_file.xml -->

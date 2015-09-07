@@ -39,4 +39,4 @@
         android:gravity="center"
         android:text="@string/connect" />
 
-</LinearLayout><!-- From: file:/home/leocai/workspace/android/sensortag-android-gradle/app/src/main/res/layout/element_device.xml -->
+</LinearLayout><!-- From: file:/E:/android/sensortag-android-handshake/app/src/main/res/layout/element_device.xml -->

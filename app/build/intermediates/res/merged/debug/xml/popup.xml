@@ -2,4 +2,4 @@
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
     android:keyWidth="10%p"
     android:keyHeight="10%p">
-</Keyboard><!-- From: file:/home/leocai/workspace/android/sensortag-android-gradle/app/src/main/res/xml/popup.xml -->
+</Keyboard><!-- From: file:/E:/android/sensortag-android-handshake/app/src/main/res/xml/popup.xml -->

@@ -6,4 +6,4 @@
     <ProgressBar android:layout_width="32dp"
        android:layout_height="32dp"
        android:layout_gravity="center"/>
-</FrameLayout><!-- From: file:/home/leocai/workspace/android/sensortag-android-gradle/app/src/main/res/layout/frame_progress.xml -->
+</FrameLayout><!-- From: file:/E:/android/sensortag-android-handshake/app/src/main/res/layout/frame_progress.xml -->

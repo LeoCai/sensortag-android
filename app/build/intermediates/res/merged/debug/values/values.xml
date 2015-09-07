@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/leocai/workspace/android/sensortag-android-gradle/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/E:/android/sensortag-android-handshake/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string-array name="device_filter"><item>SensorTag</item><item>SensorTag2</item></string-array>
     <string name="about">About</string>
@@ -64,7 +64,7 @@
     <string name="unitRH">%rH\n</string>
     <string name="unitT3">uT\nuT\nuT\n</string>
     <string name="xyz3">x:\ny:\nz:\n</string>
-    <!-- From: file:/home/leocai/workspace/android/sensortag-android-gradle/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/E:/android/sensortag-android-handshake/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--

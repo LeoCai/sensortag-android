@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/leocai/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/leocai/workspace/android/sensortag-android-gradle/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-d718b4941a0c022f8e08456334acc4053f73eee1.jar" />
+    </item>
+
+</items>
